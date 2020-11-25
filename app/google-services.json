@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "48006510980",
+    "firebase_url": "https://college-info-fbd15.firebaseio.com",
+    "project_id": "college-info-fbd15",
+    "storage_bucket": "college-info-fbd15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48006510980:android:e7e1b2ef6fcd26ceb185d1",
+        "android_client_info": {
+          "package_name": "com.studentcourses"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48006510980-3li3t4la89vrsctlpivmjrguv3pts8km.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLp6CUnvrumyoJj1Pjt3XesZ-Gh1xKZm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48006510980-3li3t4la89vrsctlpivmjrguv3pts8km.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
